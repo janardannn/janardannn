@@ -3,8 +3,8 @@
 <a href="#">
   <img alt="Janardon's Profile Views" src="https://komarev.com/ghpvc/?username=janardannn&color=blue" />
 </a>
-<a href="https://github.com/janardonh?tab=followers">
-  <img alt="Janardon's Profile Views" src="https://img.shields.io/github/followers/janardonh.svg?style=flat&label=Follow" />
+<a href="https://github.com/janardannn?tab=followers">
+  <img alt="Janardon's Profile Views" src="https://img.shields.io/github/followers/janardannn.svg?style=flat&label=Follow" />
 </a>
 </h1>
 
@@ -30,11 +30,11 @@
 ### :zap: Github Stats
 
 <p align="left">
-<a href="https://github.com/janardonh">
-  <img align="center" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=janardonh&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
+<a href="https://github.com/janardannn">
+  <img align="center" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=janardannn&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
-<a href="https://github.com/janardonh">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janardonh&layout=compact&&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
+<a href="https://github.com/janardannn">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janardannn&layout=compact&&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
 </p>
 
