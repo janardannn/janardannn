@@ -48,26 +48,26 @@
   <img align="center" alt="Janardon's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/janardon-hazarika-7b3b7b189/" target="_blank">
+<a href="https://www.linkedin.com/in/janardan-hazarika-7b3b7b189/" target="_blank">
   <img align="center" alt="Janardon's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 &nbsp;
  <!--
 <a href="https://codeforces.com/profile/ZetaFunction" target="_blank">
-  <img align="center" alt="Deep's Codeforces" width="60px" src="https://lh3.googleusercontent.com/-9azrA7GgyNpNVfHRI5xLhRyy4OuqevecUAjUFFfpJccTGHkdd4oXYfw11Z5-jxlDRM=s200" />
+  <img align="center" alt="" width="60px" src="https://lh3.googleusercontent.com/-9azrA7GgyNpNVfHRI5xLhRyy4OuqevecUAjUFFfpJccTGHkdd4oXYfw11Z5-jxlDRM=s200" />
 </a>
 &nbsp;
 
-<a href="https://www.codechef.com/users/deep2905" target="_blank">
-  <img align="center" alt="Deep's CodeChef" width="48px" src="https://s3.amazonaws.com/codechef_shared/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png"/>
+<a href="https://www.codechef.com/users/" target="_blank">
+  <img align="center" alt="" width="48px" src="https://s3.amazonaws.com/codechef_shared/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png"/>
 </a>
 &nbsp;
 -->
-<a href="https://twitter.com/janardon_h/" target="_blank">
+<a href="https://twitter.com/janardanhhh/" target="_blank">
   <img align="center" alt="Janardon's Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/janardon_hazarika/" target="_blank">
+<a href="https://www.instagram.com/janardanhhh/" target="_blank">
   <img align="center" alt="Janardon's Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 &nbsp;
@@ -75,12 +75,12 @@
   <img align="center" alt="Janardon's Reddit" src="https://img.icons8.com/fluent/48/000000/reddit.png" />
 </a>
 &nbsp;
-<a href="https://t.me/janardon_hazarika" target="_blank">
+<a href="https://t.me/janardan_hazarika" target="_blank">
   <img align="center" alt="Janardon's Telegram" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
 </a>
 &nbsp;
 <!--
-<a href="https://discord.gg/" target="_blank">
+<a href="https://discordapp.com/users/624486651317452812/" target="_blank">
   <img align="center" alt="Janardon's Discord" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />
 </a>
 &nbsp;
