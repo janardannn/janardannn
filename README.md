@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning about Data Structures & Algorithms
-- 👯 I’m looking to collaborate on developing trading algorithms
-- 💬 Ask me about programming, anime, movies and trading.
-- 🥅 2021 Goals: Learn how to build and maintain consistency in life.
+- 👯 I’m looking to collaborate on developing trading algorithms, backend systems, optimization algorithms.
+- 💬 Ask me about programming, anime, movies, tech, or almost anything and i am 99% sure i will atleast know a little bit about it.
+- 🥅 2023 Goals: Learn DSA and start fullstack.
 - ⚡ Fun fact: I read a lot of philosophical and spiritual books and embrace optimistic nihilism.
 
 
