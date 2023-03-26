@@ -8,7 +8,7 @@
 </a>
 </h1>
 
-## I am a Developer and a hobbyist trader.
+## Hi I'm Janardan.
 
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning about Data Structures & Algorithms
