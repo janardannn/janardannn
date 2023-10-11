@@ -1,5 +1,4 @@
 <!--Header-->
-<h1> Hello World <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="25px" height="25px" > !!
 <a href="#">
   <img alt="Janardon's Profile Views" src="https://komarev.com/ghpvc/?username=janardannn&color=blue" />
 </a>
