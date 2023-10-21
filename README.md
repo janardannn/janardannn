@@ -10,10 +10,10 @@
 ## Hi I'm Janardan.
 
 - 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning about Data Structures & Algorithms
-- 👯 I’m looking to collaborate on developing trading algorithms, backend systems, optimization algorithms.
+- 🌱 I’m currently learning Fullstack development, mainly the MERN stack.
+- 👯 I’m looking to collaborate on REACT webapps, backend systems, trading algorithms using Python.
 - 💬 Ask me about programming, anime, movies, tech, or almost anything and i am 99% sure i will atleast know a little bit about it.
-- 🥅 2023 Goals: Learn DSA and start fullstack.
+- 🥅 2023 Goals: Learn DSA and become a newbie fullstack developer.
 - ⚡ Fun fact: I read a lot of philosophical and spiritual books and embrace optimistic nihilism.
 
 
