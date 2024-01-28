@@ -10,7 +10,7 @@
 ## Hi I'm Janardan.
 
 - 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning Fullstack development, mainly the PERN stack.
+- 🌱 I’m currently learning Fullstack development, mainly the MERN stack.
 - 👯 I’m looking to collaborate on full-stack MERN web apps or any for that matter, backend systems, and trading algorithms using Python.
 - 💬 Ask me about programming, anime, movies, tech, or almost anything and I am sure I will at least know a little about it.
 - 🥅 2024 Goals: Learn DSA, prepare for placements, and become a fullstack developer.
