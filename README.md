@@ -9,12 +9,12 @@
 
 ## Hi I'm Janardan.
 
-- 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning Fullstack development, mainly the MERN stack.
-- 👯 I’m looking to collaborate on full-stack MERN web apps or any for that matter, backend systems, and trading algorithms using Python.
-- 💬 Ask me about programming, anime, movies, tech, or almost anything and I am sure I will at least know a little about it.
-- 🥅 2024 Goals: Learn DSA, prepare for placements, and become a fullstack developer.
-- ⚡ Fun fact: I read many philosophical and spiritual books and embrace optimistic nihilism.
+- 🔭 I’m currently working on a map-based renting webapp and a chess tactics training webapp.
+- 🌱 I’m currently learning Full-Stack development, mainly Next.js, combined with tools such as Docker and Kubernetes, and also trying to master git while learning these.
+- 👯 I’m looking to collaborate on full-stack web apps or any for that matter, backend systems, and trading algorithms using Python.
+- 💬 Ask me about programming, anime, movies, tech, or almost anything, and I am sure I will at least know a little about it or be aware of it.
+- 🥅 2025 Goals: Prepare for placements (get better in DSA/SQL and CS core), learn how to become a better engineer, and get better at problem-solving in general.
+- ⚡ Fun fact: My Pinterest reflects my current (non-tech) interests and also serves as a memoir of my past interests.
 
 
 <!--Mid GIF
