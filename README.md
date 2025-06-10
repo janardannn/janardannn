@@ -10,10 +10,10 @@
 ## Hi I'm Janardan.
 
 - 🔭 I’m currently working on a map-based renting webapp and a chess tactics training webapp.
-- 🌱 I’m currently learning Full-Stack development, mainly Next.js, combined with tools such as Docker and Kubernetes, and also trying to master git while learning these.
+- 🌱 I’m currently learning Full-Stack development, mainly Next.js, combined with tools such as Docker and K8s, and also trying to master git while learning them.
 - 👯 I’m looking to collaborate on full-stack web apps or any for that matter, backend systems, and trading algorithms using Python.
 - 💬 Ask me about programming, anime, movies, tech, or almost anything, and I am sure I will at least know a little about it or be aware of it.
-- 🥅 2025 Goals: Prepare for placements (get better in DSA/SQL and CS core), learn how to become a better engineer, and get better at problem-solving in general.
+- 🥅 2025 Goals: Prepare for placements (get better at DSA/SQL and CS core), learn how to become a better engineer, and get better at problem-solving in general.
 - ⚡ Fun fact: My Pinterest reflects my current (non-tech) interests and also serves as a memoir of my past interests.
 
 
@@ -43,7 +43,7 @@
   <h2 align="center"> Connect with me :handshake:</h2>
 </p>
 <p align="center">
-<a href="mailto:janardonhazarika7@gmail.com" target="_blank">
+<a href="mailto:janardanhazarika20@gmail.com" target="_blank">
   <img align="center" alt="Janardon's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
 </a>
 &nbsp;
