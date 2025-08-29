@@ -44,38 +44,36 @@
 </p>
 <p align="center">
 <a href="mailto:janardanhazarika20@gmail.com" target="_blank">
-  <img align="center" alt="Janardon's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
+  <img align="center" alt="Janardan's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/janardan-hazarika-7b3b7b189/" target="_blank">
-  <img align="center" alt="Janardon's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img align="center" alt="Janardan's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 &nbsp;
  <!--
 <a href="https://codeforces.com/profile/ZetaFunction" target="_blank">
   <img align="center" alt="" width="60px" src="https://lh3.googleusercontent.com/-9azrA7GgyNpNVfHRI5xLhRyy4OuqevecUAjUFFfpJccTGHkdd4oXYfw11Z5-jxlDRM=s200" />
 </a>
-&nbsp;
-
-<a href="https://www.codechef.com/users/" target="_blank">
-  <img align="center" alt="" width="48px" src="https://s3.amazonaws.com/codechef_shared/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png"/>
-</a>
-&nbsp;
 -->
 <a href="https://twitter.com/janardan_ai/" target="_blank">
-  <img align="center" alt="Janardon's Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+  <img align="center" alt="Janardan's Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/janardan.ai/" target="_blank">
-  <img align="center" alt="Janardon's Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  <img align="center" alt="Janardan's Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 &nbsp;
 <a href="https://www.reddit.com/user/mind_uncapped/" target="_blank">
-  <img align="center" alt="Janardon's Reddit" src="https://img.icons8.com/fluent/48/000000/reddit.png" />
+  <img align="center" alt="Janardan's Reddit" src="https://img.icons8.com/fluent/48/000000/reddit.png" />
 </a>
 &nbsp;
 <a href="https://t.me/janardan_hazarika" target="_blank">
-  <img align="center" alt="Janardon's Telegram" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
+  <img align="center" alt="Janardan's Telegram" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
+</a>
+&nbsp;
+<a href="https://www.pinterest.com/janardannn/" target="_blank">
+  <img align="center" alt="Janardan's Telegram" src="https://img.icons8.com/color/48/000000/pinterest.png" />
 </a>
 &nbsp;
 <!--
