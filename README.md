@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Full-Stack development, mainly Next.js, combined with tools such as Docker and K8s, and also trying to master git while learning them.
 - 👯 I’m looking to collaborate on full-stack web apps or any for that matter, backend systems, and trading algorithms using Python.
 - 💬 Ask me about programming, movies, tech, geo-politics, or almost anything, and I am sure I will at least know a little about it or be aware of it.
-- 🥅 2025 Goals: Prepare for placements (get better at DSA/SQL and CS core), learn how to become a better engineer, and get better at problem-solving in general.
+- 🥅 2026 Goals: Prepare for placements (get better at DSA/SQL and CS core), learn how to become a better engineer, and get better at problem-solving in general.
 - ⚡ Fun fact: My Pinterest reflects my current (non-tech) interests and also serves as a memoir of my past interests.
 
 
