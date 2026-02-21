@@ -27,9 +27,6 @@ Building full-stack products with **React, Next.js, Rails, TypeScript, Docker** 
 <a href="https://github.com/janardannn">
   <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=janardannn&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF" />
 </a>
-<a href="https://github.com/janardannn">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janardannn&layout=compact&show_icons=true&theme=tokyonight&title_color=FFFFFF" />
-</a>
 </p>
 
 ### 🤝 Connect
