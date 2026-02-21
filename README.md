@@ -14,7 +14,7 @@ Building full-stack products with **React, Next.js, Rails, TypeScript, Docker** 
 ### 🔭 What I'm up to
 
 - 💼 At Scaler, building conversion funnels, AI voice agents, GTM tracking infra, and lead-allocation systems in Rails + React
-- 🛠️ Side project: **ai-eval-lab**, an AI-proctored skill assessment platform that streams desktop environments (KiCad) to the browser via VNC, with Gemini-powered adaptive grading and ElevenLabs voice interaction
+- 🛠️ Side project: **ai-eval-lab**, an AI-proctored skill assessment platform that streams desktop environments (like KiCad, FreeCAD) to the browser via VNC, with Gemini-powered adaptive grading and ElevenLabs voice interaction
 - 🧠 400+ DSA problems solved and counting
 
 ### ⚡ Tech
