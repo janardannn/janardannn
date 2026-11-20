@@ -1,34 +1,24 @@
-<a href="#">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=janardannn&color=blue" />
+<a href="https://janardan.xyz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+    <img alt="Janardan Hazarika: an ID badge, a map of India tracing Assam to Chandigarh to Bengaluru, a GAU to BLR boarding pass, and project stickers" src="./assets/banner-light.png" width="100%">
+  </picture>
 </a>
-<a href="https://github.com/janardannn?tab=followers">
-  <img alt="Followers" src="https://img.shields.io/github/followers/janardannn.svg?style=flat&label=Follow" />
-</a>
 
-# Hi, I'm Janardan 👋
+### Hi, I’m Janardan.
 
-🧑‍💻 SDE Intern at **Scaler** (InterviewBit) | Final-year CSE @ Chandigarh University
+Software engineer at **Scaler** in Bengaluru. I built **[Varsity by InterviewBit](https://www.interviewbit.com/varsity)**, which runs online degrees for 6 universities including IIT Delhi and IIM Trichy (1M+ visitors, 80K+ leads, ₹11 Cr+ collected), and I own Scaler’s Sales CRM and its on-call.
 
-Building full-stack products with **React, Next.js, Rails, TypeScript, Docker** and shipping things that move metrics.
+#### Now
 
-### 🔭 What I'm up to
+- **Varsity**: FastAPI, Celery, PostgreSQL, Next.js
+- **Sales CRM**: Rails, GraphQL, OpenSearch, Kafka/Debezium
+- **AWS in Terraform**: ECS, RDS, CloudFront, SigNoz, PagerDuty
 
-- 💼 At Scaler, building conversion funnels, AI voice agents, GTM tracking infra, and lead-allocation systems in Rails + React
-- 🛠️ Side project: **ai-eval-lab**, an AI-proctored skill assessment platform that streams desktop environments (like KiCad, FreeCAD) to the browser via VNC, with Gemini-powered adaptive grading and ElevenLabs voice interaction
-- 🧠 400+ DSA problems solved and counting
+#### After hours
 
-### ⚡ Tech
+- [PMDB](https://pmdb.janardan.xyz), a diary of your world of cinema
+- [ai-eval-lab](https://github.com/janardannn/ai-eval-lab), exams inside real KiCad with a voice AI examiner
+- [taimumashin](https://github.com/janardannn/taimumashin), cold storage on your own AWS
 
-`TypeScript` `JavaScript` `Python` `C++` `Ruby` `React` `Next.js` `Node.js` `Rails` `PostgreSQL` `MongoDB` `Redis` `Prisma` `Docker` `GitHub Actions` `Nginx` `WebSockets`
-
-### 📊 Stats
-
-<p>
-<a href="https://github.com/janardannn">
-  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=janardannn&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF" />
-</a>
-</p>
-
-### 🤝 Connect
-
-[🌐 janardan.xyz](https://janardan.xyz) &#8226; [📧 Email](mailto:janardanhazarika20@gmail.com) &#8226; [💼 LinkedIn](https://www.linkedin.com/in/janardan-hazarika-7b3b7b189/) &#8226; [🐦 Twitter](https://twitter.com/janardan_ai/) &#8226; [📸 Instagram](https://www.instagram.com/janardan.ai/)
+[janardan.xyz](https://janardan.xyz) · [LinkedIn](https://www.linkedin.com/in/janardan-hazarika-7b3b7b189/) · [X](https://x.com/janardan_ai) · [Email](mailto:janardanhazarika20@gmail.com)
