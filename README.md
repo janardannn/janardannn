@@ -7,7 +7,7 @@
 
 ### Hi, I’m Janardan.
 
-Software engineer at **Scaler** in Bengaluru. I built **[Varsity by InterviewBit](https://www.interviewbit.com/varsity)**, which runs online degrees for 6 universities including IIT Delhi and IIM Trichy (1M+ visitors, 80K+ leads, ₹11 Cr+ collected), and I own Scaler’s Sales CRM and its on-call.
+Software engineer at **Scaler** in Bengaluru. I built **[Varsity by InterviewBit](https://www.interviewbit.com/varsity)**, which runs online degrees for 6 universities including IIT Delhi and IIM Trichy, I work on Scaler’s Sales CRM and its on-call and any ad-hoc platform work.
 
 #### Now
 
